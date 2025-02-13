@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sushanth 
 - 👀 I’m interested in AIML
-- 🌱 I’m currently learning AIMl
+- 🌱 I’m currently learning MongoDB
 - 📫 How to reach me ksushanth9030@gmail.com 
 
 <!---
